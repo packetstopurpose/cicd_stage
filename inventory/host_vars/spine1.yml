@@ -8,3 +8,7 @@ bgp_neighbors:
   - ip: 10.1.1.2
     remote_as: 65101
     description: LEAF-01
+  - ip: 10.1.1.6
+    remote_as: 65102
+    description: LEAF-02
+  
