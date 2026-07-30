@@ -1,0 +1,66 @@
+{
+  "freeTextAnnotations": [],
+  "freeShapeAnnotations": [],
+  "trafficRateAnnotations": [],
+  "groupStyleAnnotations": [],
+  "networkNodeAnnotations": [],
+  "nodeAnnotations": [
+    {
+      "id": "spine1",
+      "position": {
+        "x": 400,
+        "y": 200
+      }
+    },
+    {
+      "id": "spine2",
+      "position": {
+        "x": 860,
+        "y": 200
+      }
+    },
+    {
+      "id": "leaf1",
+      "position": {
+        "x": 400,
+        "y": 480
+      }
+    },
+    {
+      "id": "leaf2",
+      "position": {
+        "x": 580,
+        "y": 480
+      }
+    },
+    {
+      "id": "leaf3",
+      "position": {
+        "x": 740,
+        "y": 480
+      }
+    },
+    {
+      "id": "leaf4",
+      "position": {
+        "x": 860,
+        "y": 480
+      }
+    }
+  ],
+  "edgeAnnotations": [],
+  "aliasEndpointAnnotations": [],
+  "viewerSettings": {
+    "style": "telemetry-style",
+    "linkLabelMode": "telemetry-style",
+    "lastNonTelemetryLinkLabelMode": "show-all",
+    "telemetryNodeSizePx": 40,
+    "telemetryInterfaceSizePercent": 100,
+    "showRateLabels": false,
+    "autoCreateTrafficRateAnnotations": false,
+    "gridLineWidth": 0.5,
+    "gridStyle": "dotted",
+    "gridColor": null,
+    "gridBgColor": null
+  }
+}
